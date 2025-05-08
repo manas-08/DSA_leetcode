@@ -6,6 +6,7 @@
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/manas-08/DSA_leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0169-majority-element](https://github.com/manas-08/DSA_leetcode/tree/master/0169-majority-element) |
+| [2048-build-array-from-permutation](https://github.com/manas-08/DSA_leetcode/tree/master/2048-build-array-from-permutation) |
 | [3227-find-missing-and-repeated-values](https://github.com/manas-08/DSA_leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3483-alternating-groups-ii](https://github.com/manas-08/DSA_leetcode/tree/master/3483-alternating-groups-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/manas-08/DSA_leetcode/tree/master/3643-zero-array-transformation-ii) |
@@ -66,4 +67,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/manas-08/DSA_leetcode/tree/master/0169-majority-element) |
+## Simulation
+|  |
+| ------- |
+| [2048-build-array-from-permutation](https://github.com/manas-08/DSA_leetcode/tree/master/2048-build-array-from-permutation) |
 <!---LeetCode Topics End-->
