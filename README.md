@@ -6,6 +6,7 @@
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/manas-08/DSA_leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0169-majority-element](https://github.com/manas-08/DSA_leetcode/tree/master/0169-majority-element) |
+| [0645-set-mismatch](https://github.com/manas-08/DSA_leetcode/tree/master/0645-set-mismatch) |
 | [2048-build-array-from-permutation](https://github.com/manas-08/DSA_leetcode/tree/master/2048-build-array-from-permutation) |
 | [3227-find-missing-and-repeated-values](https://github.com/manas-08/DSA_leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3483-alternating-groups-ii](https://github.com/manas-08/DSA_leetcode/tree/master/3483-alternating-groups-ii) |
@@ -14,6 +15,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/manas-08/DSA_leetcode/tree/master/0169-majority-element) |
+| [0645-set-mismatch](https://github.com/manas-08/DSA_leetcode/tree/master/0645-set-mismatch) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/manas-08/DSA_leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [3227-find-missing-and-repeated-values](https://github.com/manas-08/DSA_leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/manas-08/DSA_leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -63,6 +65,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/manas-08/DSA_leetcode/tree/master/0169-majority-element) |
+| [0645-set-mismatch](https://github.com/manas-08/DSA_leetcode/tree/master/0645-set-mismatch) |
 ## Counting
 |  |
 | ------- |
@@ -71,4 +74,8 @@
 |  |
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/manas-08/DSA_leetcode/tree/master/2048-build-array-from-permutation) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/manas-08/DSA_leetcode/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
