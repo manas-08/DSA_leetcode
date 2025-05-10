@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/manas-08/DSA_leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0041-first-missing-positive](https://github.com/manas-08/DSA_leetcode/tree/master/0041-first-missing-positive) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/manas-08/DSA_leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0169-majority-element](https://github.com/manas-08/DSA_leetcode/tree/master/0169-majority-element) |
 | [0645-set-mismatch](https://github.com/manas-08/DSA_leetcode/tree/master/0645-set-mismatch) |
@@ -18,6 +19,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/manas-08/DSA_leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0041-first-missing-positive](https://github.com/manas-08/DSA_leetcode/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/manas-08/DSA_leetcode/tree/master/0169-majority-element) |
 | [0645-set-mismatch](https://github.com/manas-08/DSA_leetcode/tree/master/0645-set-mismatch) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/manas-08/DSA_leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
