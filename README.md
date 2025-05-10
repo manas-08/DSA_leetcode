@@ -40,6 +40,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/manas-08/DSA_leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/manas-08/DSA_leetcode/tree/master/0022-generate-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/manas-08/DSA_leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/manas-08/DSA_leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/manas-08/DSA_leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -88,6 +89,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/manas-08/DSA_leetcode/tree/master/0022-generate-parentheses) |
 | [1013-fibonacci-number](https://github.com/manas-08/DSA_leetcode/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -102,6 +104,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/manas-08/DSA_leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/manas-08/DSA_leetcode/tree/master/0022-generate-parentheses) |
 ## Linked List
 |  |
 | ------- |
