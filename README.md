@@ -92,6 +92,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/manas-08/DSA_leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [1013-fibonacci-number](https://github.com/manas-08/DSA_leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -101,4 +102,8 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/manas-08/DSA_leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/manas-08/DSA_leetcode/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
