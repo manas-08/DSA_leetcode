@@ -6,6 +6,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/manas-08/DSA_leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/manas-08/DSA_leetcode/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/manas-08/DSA_leetcode/tree/master/0048-rotate-image) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/manas-08/DSA_leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0169-majority-element](https://github.com/manas-08/DSA_leetcode/tree/master/0169-majority-element) |
 | [0645-set-mismatch](https://github.com/manas-08/DSA_leetcode/tree/master/0645-set-mismatch) |
@@ -28,12 +29,14 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/manas-08/DSA_leetcode/tree/master/0048-rotate-image) |
 | [1013-fibonacci-number](https://github.com/manas-08/DSA_leetcode/tree/master/1013-fibonacci-number) |
 | [2610-closest-prime-numbers-in-range](https://github.com/manas-08/DSA_leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [3227-find-missing-and-repeated-values](https://github.com/manas-08/DSA_leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/manas-08/DSA_leetcode/tree/master/0048-rotate-image) |
 | [3227-find-missing-and-repeated-values](https://github.com/manas-08/DSA_leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Number Theory
 |  |
