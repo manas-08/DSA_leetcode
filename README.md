@@ -7,6 +7,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/manas-08/DSA_leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0169-majority-element](https://github.com/manas-08/DSA_leetcode/tree/master/0169-majority-element) |
 | [0645-set-mismatch](https://github.com/manas-08/DSA_leetcode/tree/master/0645-set-mismatch) |
+| [0792-binary-search](https://github.com/manas-08/DSA_leetcode/tree/master/0792-binary-search) |
 | [1646-kth-missing-positive-number](https://github.com/manas-08/DSA_leetcode/tree/master/1646-kth-missing-positive-number) |
 | [2048-build-array-from-permutation](https://github.com/manas-08/DSA_leetcode/tree/master/2048-build-array-from-permutation) |
 | [3227-find-missing-and-repeated-values](https://github.com/manas-08/DSA_leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -50,6 +51,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0792-binary-search](https://github.com/manas-08/DSA_leetcode/tree/master/0792-binary-search) |
 | [1646-kth-missing-positive-number](https://github.com/manas-08/DSA_leetcode/tree/master/1646-kth-missing-positive-number) |
 | [3643-zero-array-transformation-ii](https://github.com/manas-08/DSA_leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Prefix Sum
