@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/manas-08/DSA_leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/manas-08/DSA_leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0169-majority-element](https://github.com/manas-08/DSA_leetcode/tree/master/0169-majority-element) |
 | [0645-set-mismatch](https://github.com/manas-08/DSA_leetcode/tree/master/0645-set-mismatch) |
@@ -54,6 +55,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/manas-08/DSA_leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0792-binary-search](https://github.com/manas-08/DSA_leetcode/tree/master/0792-binary-search) |
 | [1646-kth-missing-positive-number](https://github.com/manas-08/DSA_leetcode/tree/master/1646-kth-missing-positive-number) |
 | [3643-zero-array-transformation-ii](https://github.com/manas-08/DSA_leetcode/tree/master/3643-zero-array-transformation-ii) |
