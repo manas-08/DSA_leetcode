@@ -129,4 +129,5 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/manas-08/DSA_leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/manas-08/DSA_leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0092-reverse-linked-list-ii](https://github.com/manas-08/DSA_leetcode/tree/master/0092-reverse-linked-list-ii) |
 <!---LeetCode Topics End-->
