@@ -108,6 +108,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/manas-08/DSA_leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/manas-08/DSA_leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [1013-fibonacci-number](https://github.com/manas-08/DSA_leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
@@ -124,5 +125,6 @@
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/manas-08/DSA_leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/manas-08/DSA_leetcode/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
