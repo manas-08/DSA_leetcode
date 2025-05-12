@@ -3,7 +3,7 @@ class Solution {
         StringBuilder command1 = new StringBuilder();
         int i = 0;
         char ch = command.charAt(i);
-        char ch1 = command.charAt(i+1);
+        char ch1 = command.charAt(i);
         while (i <= command.length() - 1) {
             if(i <= command.length() - 2){
                 ch = command.charAt(i);
