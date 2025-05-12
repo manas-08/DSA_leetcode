@@ -6,6 +6,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/manas-08/DSA_leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/manas-08/DSA_leetcode/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/manas-08/DSA_leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/manas-08/DSA_leetcode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/manas-08/DSA_leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/manas-08/DSA_leetcode/tree/master/0049-group-anagrams) |
@@ -28,6 +29,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/manas-08/DSA_leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/manas-08/DSA_leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/manas-08/DSA_leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/manas-08/DSA_leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/manas-08/DSA_leetcode/tree/master/0169-majority-element) |
@@ -49,6 +51,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/manas-08/DSA_leetcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/manas-08/DSA_leetcode/tree/master/0048-rotate-image) |
 | [3227-find-missing-and-repeated-values](https://github.com/manas-08/DSA_leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Number Theory
@@ -137,6 +140,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/manas-08/DSA_leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/manas-08/DSA_leetcode/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/manas-08/DSA_leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/manas-08/DSA_leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/manas-08/DSA_leetcode/tree/master/0052-n-queens-ii) |
 ## Linked List
