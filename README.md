@@ -42,6 +42,7 @@
 | [0007-reverse-integer](https://github.com/manas-08/DSA_leetcode/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/manas-08/DSA_leetcode/tree/master/0048-rotate-image) |
 | [1013-fibonacci-number](https://github.com/manas-08/DSA_leetcode/tree/master/1013-fibonacci-number) |
+| [2050-count-good-numbers](https://github.com/manas-08/DSA_leetcode/tree/master/2050-count-good-numbers) |
 | [2610-closest-prime-numbers-in-range](https://github.com/manas-08/DSA_leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [3227-find-missing-and-repeated-values](https://github.com/manas-08/DSA_leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Matrix
@@ -121,6 +122,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/manas-08/DSA_leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/manas-08/DSA_leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [1013-fibonacci-number](https://github.com/manas-08/DSA_leetcode/tree/master/1013-fibonacci-number) |
+| [2050-count-good-numbers](https://github.com/manas-08/DSA_leetcode/tree/master/2050-count-good-numbers) |
 ## Memoization
 |  |
 | ------- |
