@@ -63,6 +63,7 @@
 | [0049-group-anagrams](https://github.com/manas-08/DSA_leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/manas-08/DSA_leetcode/tree/master/0058-length-of-last-word) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/manas-08/DSA_leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1739-split-two-strings-to-make-palindrome](https://github.com/manas-08/DSA_leetcode/tree/master/1739-split-two-strings-to-make-palindrome) |
 | [1797-goal-parser-interpretation](https://github.com/manas-08/DSA_leetcode/tree/master/1797-goal-parser-interpretation) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/manas-08/DSA_leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/manas-08/DSA_leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -91,6 +92,7 @@
 | ------- |
 | [0061-rotate-list](https://github.com/manas-08/DSA_leetcode/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/manas-08/DSA_leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [1739-split-two-strings-to-make-palindrome](https://github.com/manas-08/DSA_leetcode/tree/master/1739-split-two-strings-to-make-palindrome) |
 ## Divide and Conquer
 |  |
 | ------- |
