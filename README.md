@@ -23,6 +23,7 @@
 | [1646-kth-missing-positive-number](https://github.com/manas-08/DSA_leetcode/tree/master/1646-kth-missing-positive-number) |
 | [2048-build-array-from-permutation](https://github.com/manas-08/DSA_leetcode/tree/master/2048-build-array-from-permutation) |
 | [2215-finding-3-digit-even-numbers](https://github.com/manas-08/DSA_leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/manas-08/DSA_leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2665-minimum-time-to-repair-cars](https://github.com/manas-08/DSA_leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/manas-08/DSA_leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3227-find-missing-and-repeated-values](https://github.com/manas-08/DSA_leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -40,6 +41,7 @@
 | [0645-set-mismatch](https://github.com/manas-08/DSA_leetcode/tree/master/0645-set-mismatch) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/manas-08/DSA_leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2215-finding-3-digit-even-numbers](https://github.com/manas-08/DSA_leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/manas-08/DSA_leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3227-find-missing-and-repeated-values](https://github.com/manas-08/DSA_leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/manas-08/DSA_leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/manas-08/DSA_leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -118,6 +120,7 @@
 | [0169-majority-element](https://github.com/manas-08/DSA_leetcode/tree/master/0169-majority-element) |
 | [0645-set-mismatch](https://github.com/manas-08/DSA_leetcode/tree/master/0645-set-mismatch) |
 | [2215-finding-3-digit-even-numbers](https://github.com/manas-08/DSA_leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/manas-08/DSA_leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Counting
 |  |
 | ------- |
@@ -181,4 +184,8 @@
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/manas-08/DSA_leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/manas-08/DSA_leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 <!---LeetCode Topics End-->
