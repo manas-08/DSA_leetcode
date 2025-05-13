@@ -21,6 +21,7 @@
 | [1293-three-consecutive-odds](https://github.com/manas-08/DSA_leetcode/tree/master/1293-three-consecutive-odds) |
 | [1477-product-of-the-last-k-numbers](https://github.com/manas-08/DSA_leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1646-kth-missing-positive-number](https://github.com/manas-08/DSA_leetcode/tree/master/1646-kth-missing-positive-number) |
+| [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/manas-08/DSA_leetcode/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [2048-build-array-from-permutation](https://github.com/manas-08/DSA_leetcode/tree/master/2048-build-array-from-permutation) |
 | [2215-finding-3-digit-even-numbers](https://github.com/manas-08/DSA_leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/manas-08/DSA_leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -53,6 +54,7 @@
 | [0089-gray-code](https://github.com/manas-08/DSA_leetcode/tree/master/0089-gray-code) |
 | [1013-fibonacci-number](https://github.com/manas-08/DSA_leetcode/tree/master/1013-fibonacci-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/manas-08/DSA_leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/manas-08/DSA_leetcode/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [2050-count-good-numbers](https://github.com/manas-08/DSA_leetcode/tree/master/2050-count-good-numbers) |
 | [2610-closest-prime-numbers-in-range](https://github.com/manas-08/DSA_leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [3227-find-missing-and-repeated-values](https://github.com/manas-08/DSA_leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -138,6 +140,7 @@
 | [0089-gray-code](https://github.com/manas-08/DSA_leetcode/tree/master/0089-gray-code) |
 | [0137-single-number-ii](https://github.com/manas-08/DSA_leetcode/tree/master/0137-single-number-ii) |
 | [0645-set-mismatch](https://github.com/manas-08/DSA_leetcode/tree/master/0645-set-mismatch) |
+| [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/manas-08/DSA_leetcode/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 ## Dynamic Programming
 |  |
 | ------- |
