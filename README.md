@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/manas-08/DSA_leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/manas-08/DSA_leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/manas-08/DSA_leetcode/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/manas-08/DSA_leetcode/tree/master/0037-sudoku-solver) |
@@ -94,6 +95,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/manas-08/DSA_leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/manas-08/DSA_leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/manas-08/DSA_leetcode/tree/master/0035-search-insert-position) |
 | [0792-binary-search](https://github.com/manas-08/DSA_leetcode/tree/master/0792-binary-search) |
@@ -115,6 +117,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/manas-08/DSA_leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/manas-08/DSA_leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/manas-08/DSA_leetcode/tree/master/0169-majority-element) |
 ## Sorting
