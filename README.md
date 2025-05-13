@@ -112,6 +112,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/manas-08/DSA_leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/manas-08/DSA_leetcode/tree/master/0169-majority-element) |
 ## Sorting
 |  |
@@ -165,6 +166,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/manas-08/DSA_leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/manas-08/DSA_leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/manas-08/DSA_leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/manas-08/DSA_leetcode/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/manas-08/DSA_leetcode/tree/master/0092-reverse-linked-list-ii) |
@@ -187,5 +189,10 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/manas-08/DSA_leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/manas-08/DSA_leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/manas-08/DSA_leetcode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
