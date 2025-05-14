@@ -13,6 +13,7 @@
 | [0048-rotate-image](https://github.com/manas-08/DSA_leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/manas-08/DSA_leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/manas-08/DSA_leetcode/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/manas-08/DSA_leetcode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/manas-08/DSA_leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0137-single-number-ii](https://github.com/manas-08/DSA_leetcode/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/manas-08/DSA_leetcode/tree/master/0169-majority-element) |
@@ -149,6 +150,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/manas-08/DSA_leetcode/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/manas-08/DSA_leetcode/tree/master/0089-gray-code) |
 | [0137-single-number-ii](https://github.com/manas-08/DSA_leetcode/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/manas-08/DSA_leetcode/tree/master/0191-number-of-1-bits) |
@@ -184,6 +186,7 @@
 | [0039-combination-sum](https://github.com/manas-08/DSA_leetcode/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/manas-08/DSA_leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/manas-08/DSA_leetcode/tree/master/0052-n-queens-ii) |
+| [0078-subsets](https://github.com/manas-08/DSA_leetcode/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/manas-08/DSA_leetcode/tree/master/0089-gray-code) |
 ## Linked List
 |  |
