@@ -126,6 +126,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/manas-08/DSA_leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/manas-08/DSA_leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/manas-08/DSA_leetcode/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/manas-08/DSA_leetcode/tree/master/0191-number-of-1-bits) |
 ## Sorting
 |  |
 | ------- |
@@ -149,6 +150,7 @@
 | ------- |
 | [0089-gray-code](https://github.com/manas-08/DSA_leetcode/tree/master/0089-gray-code) |
 | [0137-single-number-ii](https://github.com/manas-08/DSA_leetcode/tree/master/0137-single-number-ii) |
+| [0191-number-of-1-bits](https://github.com/manas-08/DSA_leetcode/tree/master/0191-number-of-1-bits) |
 | [0645-set-mismatch](https://github.com/manas-08/DSA_leetcode/tree/master/0645-set-mismatch) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/manas-08/DSA_leetcode/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 ## Dynamic Programming
