@@ -197,6 +197,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/manas-08/DSA_leetcode/tree/master/0155-min-stack) |
 | [1477-product-of-the-last-k-numbers](https://github.com/manas-08/DSA_leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 ## Data Stream
 |  |
@@ -227,4 +228,8 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/manas-08/DSA_leetcode/tree/master/0098-validate-binary-search-tree) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/manas-08/DSA_leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
