@@ -60,6 +60,7 @@
 | [0089-gray-code](https://github.com/manas-08/DSA_leetcode/tree/master/0089-gray-code) |
 | [0342-power-of-four](https://github.com/manas-08/DSA_leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/manas-08/DSA_leetcode/tree/master/1013-fibonacci-number) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/manas-08/DSA_leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1477-product-of-the-last-k-numbers](https://github.com/manas-08/DSA_leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/manas-08/DSA_leetcode/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [2050-count-good-numbers](https://github.com/manas-08/DSA_leetcode/tree/master/2050-count-good-numbers) |
@@ -161,6 +162,7 @@
 | [0191-number-of-1-bits](https://github.com/manas-08/DSA_leetcode/tree/master/0191-number-of-1-bits) |
 | [0342-power-of-four](https://github.com/manas-08/DSA_leetcode/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/manas-08/DSA_leetcode/tree/master/0645-set-mismatch) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/manas-08/DSA_leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/manas-08/DSA_leetcode/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 ## Dynamic Programming
 |  |
