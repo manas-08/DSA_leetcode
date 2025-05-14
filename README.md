@@ -55,6 +55,7 @@
 | [0007-reverse-integer](https://github.com/manas-08/DSA_leetcode/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/manas-08/DSA_leetcode/tree/master/0048-rotate-image) |
 | [0089-gray-code](https://github.com/manas-08/DSA_leetcode/tree/master/0089-gray-code) |
+| [0342-power-of-four](https://github.com/manas-08/DSA_leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/manas-08/DSA_leetcode/tree/master/1013-fibonacci-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/manas-08/DSA_leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/manas-08/DSA_leetcode/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
@@ -151,6 +152,7 @@
 | [0089-gray-code](https://github.com/manas-08/DSA_leetcode/tree/master/0089-gray-code) |
 | [0137-single-number-ii](https://github.com/manas-08/DSA_leetcode/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/manas-08/DSA_leetcode/tree/master/0191-number-of-1-bits) |
+| [0342-power-of-four](https://github.com/manas-08/DSA_leetcode/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/manas-08/DSA_leetcode/tree/master/0645-set-mismatch) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/manas-08/DSA_leetcode/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 ## Dynamic Programming
@@ -166,6 +168,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/manas-08/DSA_leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/manas-08/DSA_leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/manas-08/DSA_leetcode/tree/master/0143-reorder-list) |
+| [0342-power-of-four](https://github.com/manas-08/DSA_leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/manas-08/DSA_leetcode/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/manas-08/DSA_leetcode/tree/master/2050-count-good-numbers) |
 ## Memoization
