@@ -15,6 +15,7 @@
 | [0051-n-queens](https://github.com/manas-08/DSA_leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/manas-08/DSA_leetcode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/manas-08/DSA_leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0135-candy](https://github.com/manas-08/DSA_leetcode/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/manas-08/DSA_leetcode/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/manas-08/DSA_leetcode/tree/master/0169-majority-element) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/manas-08/DSA_leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -218,6 +219,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/manas-08/DSA_leetcode/tree/master/0135-candy) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/manas-08/DSA_leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/manas-08/DSA_leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Enumeration
