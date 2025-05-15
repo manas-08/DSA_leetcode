@@ -18,6 +18,7 @@
 | [0055-jump-game](https://github.com/manas-08/DSA_leetcode/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/manas-08/DSA_leetcode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/manas-08/DSA_leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0118-pascals-triangle](https://github.com/manas-08/DSA_leetcode/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/manas-08/DSA_leetcode/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/manas-08/DSA_leetcode/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/manas-08/DSA_leetcode/tree/master/0169-majority-element) |
@@ -189,6 +190,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/manas-08/DSA_leetcode/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/manas-08/DSA_leetcode/tree/master/0055-jump-game) |
+| [0118-pascals-triangle](https://github.com/manas-08/DSA_leetcode/tree/master/0118-pascals-triangle) |
 | [0868-push-dominoes](https://github.com/manas-08/DSA_leetcode/tree/master/0868-push-dominoes) |
 | [1013-fibonacci-number](https://github.com/manas-08/DSA_leetcode/tree/master/1013-fibonacci-number) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/manas-08/DSA_leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
