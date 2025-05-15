@@ -34,6 +34,7 @@
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/manas-08/DSA_leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/manas-08/DSA_leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3227-find-missing-and-repeated-values](https://github.com/manas-08/DSA_leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/manas-08/DSA_leetcode/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3483-alternating-groups-ii](https://github.com/manas-08/DSA_leetcode/tree/master/3483-alternating-groups-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/manas-08/DSA_leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Hash Table
@@ -70,6 +71,7 @@
 | [2050-count-good-numbers](https://github.com/manas-08/DSA_leetcode/tree/master/2050-count-good-numbers) |
 | [2610-closest-prime-numbers-in-range](https://github.com/manas-08/DSA_leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [3227-find-missing-and-repeated-values](https://github.com/manas-08/DSA_leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/manas-08/DSA_leetcode/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/manas-08/DSA_leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/manas-08/DSA_leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Matrix
@@ -269,4 +271,8 @@
 |  |
 | ------- |
 | [0183-customers-who-never-order](https://github.com/manas-08/DSA_leetcode/tree/master/0183-customers-who-never-order) |
+## Geometry
+|  |
+| ------- |
+| [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/manas-08/DSA_leetcode/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
 <!---LeetCode Topics End-->
