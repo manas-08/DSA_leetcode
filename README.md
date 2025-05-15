@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/manas-08/DSA_leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/manas-08/DSA_leetcode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/manas-08/DSA_leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/manas-08/DSA_leetcode/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/manas-08/DSA_leetcode/tree/master/0037-sudoku-solver) |
@@ -131,6 +132,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/manas-08/DSA_leetcode/tree/master/0015-3sum) |
 | [0061-rotate-list](https://github.com/manas-08/DSA_leetcode/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/manas-08/DSA_leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0143-reorder-list](https://github.com/manas-08/DSA_leetcode/tree/master/0143-reorder-list) |
@@ -148,6 +150,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/manas-08/DSA_leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/manas-08/DSA_leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/manas-08/DSA_leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/manas-08/DSA_leetcode/tree/master/0242-valid-anagram) |
