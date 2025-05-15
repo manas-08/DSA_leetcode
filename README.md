@@ -30,6 +30,7 @@
 | [2215-finding-3-digit-even-numbers](https://github.com/manas-08/DSA_leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/manas-08/DSA_leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2665-minimum-time-to-repair-cars](https://github.com/manas-08/DSA_leetcode/tree/master/2665-minimum-time-to-repair-cars) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/manas-08/DSA_leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/manas-08/DSA_leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3227-find-missing-and-repeated-values](https://github.com/manas-08/DSA_leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3483-alternating-groups-ii](https://github.com/manas-08/DSA_leetcode/tree/master/3483-alternating-groups-ii) |
@@ -94,6 +95,7 @@
 | [1739-split-two-strings-to-make-palindrome](https://github.com/manas-08/DSA_leetcode/tree/master/1739-split-two-strings-to-make-palindrome) |
 | [1797-goal-parser-interpretation](https://github.com/manas-08/DSA_leetcode/tree/master/1797-goal-parser-interpretation) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/manas-08/DSA_leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/manas-08/DSA_leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/manas-08/DSA_leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/manas-08/DSA_leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/manas-08/DSA_leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -174,6 +176,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/manas-08/DSA_leetcode/tree/master/0022-generate-parentheses) |
 | [1013-fibonacci-number](https://github.com/manas-08/DSA_leetcode/tree/master/1013-fibonacci-number) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/manas-08/DSA_leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/manas-08/DSA_leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/manas-08/DSA_leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Recursion
@@ -212,6 +215,7 @@
 ## Greedy
 |  |
 | ------- |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/manas-08/DSA_leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/manas-08/DSA_leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Enumeration
 |  |
