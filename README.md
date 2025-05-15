@@ -265,10 +265,12 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/manas-08/DSA_leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0112-path-sum](https://github.com/manas-08/DSA_leetcode/tree/master/0112-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/manas-08/DSA_leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0112-path-sum](https://github.com/manas-08/DSA_leetcode/tree/master/0112-path-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -277,6 +279,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/manas-08/DSA_leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0112-path-sum](https://github.com/manas-08/DSA_leetcode/tree/master/0112-path-sum) |
 ## Stack
 |  |
 | ------- |
@@ -290,4 +293,8 @@
 |  |
 | ------- |
 | [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/manas-08/DSA_leetcode/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/manas-08/DSA_leetcode/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
