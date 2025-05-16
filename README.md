@@ -191,6 +191,7 @@
 | [0191-number-of-1-bits](https://github.com/manas-08/DSA_leetcode/tree/master/0191-number-of-1-bits) |
 | [0342-power-of-four](https://github.com/manas-08/DSA_leetcode/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/manas-08/DSA_leetcode/tree/master/0645-set-mismatch) |
+| [0899-binary-gap](https://github.com/manas-08/DSA_leetcode/tree/master/0899-binary-gap) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/manas-08/DSA_leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/manas-08/DSA_leetcode/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 ## Dynamic Programming
