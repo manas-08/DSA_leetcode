@@ -72,6 +72,7 @@
 | [0060-permutation-sequence](https://github.com/manas-08/DSA_leetcode/tree/master/0060-permutation-sequence) |
 | [0089-gray-code](https://github.com/manas-08/DSA_leetcode/tree/master/0089-gray-code) |
 | [0342-power-of-four](https://github.com/manas-08/DSA_leetcode/tree/master/0342-power-of-four) |
+| [0935-orderly-queue](https://github.com/manas-08/DSA_leetcode/tree/master/0935-orderly-queue) |
 | [1013-fibonacci-number](https://github.com/manas-08/DSA_leetcode/tree/master/1013-fibonacci-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/manas-08/DSA_leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1477-product-of-the-last-k-numbers](https://github.com/manas-08/DSA_leetcode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -107,6 +108,7 @@
 | [0079-word-search](https://github.com/manas-08/DSA_leetcode/tree/master/0079-word-search) |
 | [0242-valid-anagram](https://github.com/manas-08/DSA_leetcode/tree/master/0242-valid-anagram) |
 | [0868-push-dominoes](https://github.com/manas-08/DSA_leetcode/tree/master/0868-push-dominoes) |
+| [0935-orderly-queue](https://github.com/manas-08/DSA_leetcode/tree/master/0935-orderly-queue) |
 | [1133-last-substring-in-lexicographical-order](https://github.com/manas-08/DSA_leetcode/tree/master/1133-last-substring-in-lexicographical-order) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/manas-08/DSA_leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1739-split-two-strings-to-make-palindrome](https://github.com/manas-08/DSA_leetcode/tree/master/1739-split-two-strings-to-make-palindrome) |
@@ -168,6 +170,7 @@
 | [0169-majority-element](https://github.com/manas-08/DSA_leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/manas-08/DSA_leetcode/tree/master/0242-valid-anagram) |
 | [0645-set-mismatch](https://github.com/manas-08/DSA_leetcode/tree/master/0645-set-mismatch) |
+| [0935-orderly-queue](https://github.com/manas-08/DSA_leetcode/tree/master/0935-orderly-queue) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/manas-08/DSA_leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2215-finding-3-digit-even-numbers](https://github.com/manas-08/DSA_leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/manas-08/DSA_leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
