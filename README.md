@@ -17,6 +17,7 @@
 | [0051-n-queens](https://github.com/manas-08/DSA_leetcode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/manas-08/DSA_leetcode/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/manas-08/DSA_leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/manas-08/DSA_leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/manas-08/DSA_leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/manas-08/DSA_leetcode/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/manas-08/DSA_leetcode/tree/master/0135-candy) |
@@ -87,6 +88,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/manas-08/DSA_leetcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/manas-08/DSA_leetcode/tree/master/0048-rotate-image) |
+| [0079-word-search](https://github.com/manas-08/DSA_leetcode/tree/master/0079-word-search) |
 | [3227-find-missing-and-repeated-values](https://github.com/manas-08/DSA_leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Number Theory
 |  |
@@ -102,6 +104,7 @@
 | [0049-group-anagrams](https://github.com/manas-08/DSA_leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/manas-08/DSA_leetcode/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/manas-08/DSA_leetcode/tree/master/0065-valid-number) |
+| [0079-word-search](https://github.com/manas-08/DSA_leetcode/tree/master/0079-word-search) |
 | [0242-valid-anagram](https://github.com/manas-08/DSA_leetcode/tree/master/0242-valid-anagram) |
 | [0868-push-dominoes](https://github.com/manas-08/DSA_leetcode/tree/master/0868-push-dominoes) |
 | [1133-last-substring-in-lexicographical-order](https://github.com/manas-08/DSA_leetcode/tree/master/1133-last-substring-in-lexicographical-order) |
@@ -227,6 +230,7 @@
 | [0051-n-queens](https://github.com/manas-08/DSA_leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/manas-08/DSA_leetcode/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/manas-08/DSA_leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/manas-08/DSA_leetcode/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/manas-08/DSA_leetcode/tree/master/0089-gray-code) |
 ## Linked List
 |  |
@@ -276,6 +280,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/manas-08/DSA_leetcode/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/manas-08/DSA_leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0112-path-sum](https://github.com/manas-08/DSA_leetcode/tree/master/0112-path-sum) |
 ## Binary Search Tree
