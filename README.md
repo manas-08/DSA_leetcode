@@ -22,6 +22,7 @@
 | [0118-pascals-triangle](https://github.com/manas-08/DSA_leetcode/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/manas-08/DSA_leetcode/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/manas-08/DSA_leetcode/tree/master/0137-single-number-ii) |
+| [0149-max-points-on-a-line](https://github.com/manas-08/DSA_leetcode/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/manas-08/DSA_leetcode/tree/master/0169-majority-element) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/manas-08/DSA_leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/manas-08/DSA_leetcode/tree/master/0645-set-mismatch) |
@@ -51,6 +52,7 @@
 | [0037-sudoku-solver](https://github.com/manas-08/DSA_leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/manas-08/DSA_leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/manas-08/DSA_leetcode/tree/master/0049-group-anagrams) |
+| [0149-max-points-on-a-line](https://github.com/manas-08/DSA_leetcode/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/manas-08/DSA_leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/manas-08/DSA_leetcode/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/manas-08/DSA_leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -71,6 +73,7 @@
 | [0048-rotate-image](https://github.com/manas-08/DSA_leetcode/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/manas-08/DSA_leetcode/tree/master/0060-permutation-sequence) |
 | [0089-gray-code](https://github.com/manas-08/DSA_leetcode/tree/master/0089-gray-code) |
+| [0149-max-points-on-a-line](https://github.com/manas-08/DSA_leetcode/tree/master/0149-max-points-on-a-line) |
 | [0342-power-of-four](https://github.com/manas-08/DSA_leetcode/tree/master/0342-power-of-four) |
 | [0935-orderly-queue](https://github.com/manas-08/DSA_leetcode/tree/master/0935-orderly-queue) |
 | [1013-fibonacci-number](https://github.com/manas-08/DSA_leetcode/tree/master/1013-fibonacci-number) |
@@ -308,6 +311,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/manas-08/DSA_leetcode/tree/master/0149-max-points-on-a-line) |
 | [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/manas-08/DSA_leetcode/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Breadth-First Search
 |  |
