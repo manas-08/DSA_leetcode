@@ -74,6 +74,7 @@
 | [1013-fibonacci-number](https://github.com/manas-08/DSA_leetcode/tree/master/1013-fibonacci-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/manas-08/DSA_leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1477-product-of-the-last-k-numbers](https://github.com/manas-08/DSA_leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1585-the-kth-factor-of-n](https://github.com/manas-08/DSA_leetcode/tree/master/1585-the-kth-factor-of-n) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/manas-08/DSA_leetcode/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [2050-count-good-numbers](https://github.com/manas-08/DSA_leetcode/tree/master/2050-count-good-numbers) |
 | [2610-closest-prime-numbers-in-range](https://github.com/manas-08/DSA_leetcode/tree/master/2610-closest-prime-numbers-in-range) |
@@ -90,6 +91,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [1585-the-kth-factor-of-n](https://github.com/manas-08/DSA_leetcode/tree/master/1585-the-kth-factor-of-n) |
 | [2610-closest-prime-numbers-in-range](https://github.com/manas-08/DSA_leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 ## String
 |  |
