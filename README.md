@@ -235,6 +235,7 @@
 | [0061-rotate-list](https://github.com/manas-08/DSA_leetcode/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/manas-08/DSA_leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0143-reorder-list](https://github.com/manas-08/DSA_leetcode/tree/master/0143-reorder-list) |
+| [0838-design-linked-list](https://github.com/manas-08/DSA_leetcode/tree/master/0838-design-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -250,6 +251,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/manas-08/DSA_leetcode/tree/master/0155-min-stack) |
+| [0838-design-linked-list](https://github.com/manas-08/DSA_leetcode/tree/master/0838-design-linked-list) |
 | [1477-product-of-the-last-k-numbers](https://github.com/manas-08/DSA_leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 ## Data Stream
 |  |
