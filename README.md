@@ -240,6 +240,7 @@
 | [0078-subsets](https://github.com/manas-08/DSA_leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/manas-08/DSA_leetcode/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/manas-08/DSA_leetcode/tree/master/0089-gray-code) |
+| [0113-path-sum-ii](https://github.com/manas-08/DSA_leetcode/tree/master/0113-path-sum-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -286,6 +287,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/manas-08/DSA_leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0112-path-sum](https://github.com/manas-08/DSA_leetcode/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/manas-08/DSA_leetcode/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/manas-08/DSA_leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/manas-08/DSA_leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
@@ -294,6 +296,7 @@
 | [0079-word-search](https://github.com/manas-08/DSA_leetcode/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/manas-08/DSA_leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0112-path-sum](https://github.com/manas-08/DSA_leetcode/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/manas-08/DSA_leetcode/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/manas-08/DSA_leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/manas-08/DSA_leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Search Tree
@@ -305,6 +308,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/manas-08/DSA_leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0112-path-sum](https://github.com/manas-08/DSA_leetcode/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/manas-08/DSA_leetcode/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/manas-08/DSA_leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/manas-08/DSA_leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Stack
