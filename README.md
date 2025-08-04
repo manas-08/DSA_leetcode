@@ -259,6 +259,7 @@
 | [0061-rotate-list](https://github.com/manas-08/DSA_leetcode/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/manas-08/DSA_leetcode/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/manas-08/DSA_leetcode/tree/master/0092-reverse-linked-list-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/manas-08/DSA_leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0143-reorder-list](https://github.com/manas-08/DSA_leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/manas-08/DSA_leetcode/tree/master/0148-sort-list) |
 | [0838-design-linked-list](https://github.com/manas-08/DSA_leetcode/tree/master/0838-design-linked-list) |
@@ -301,6 +302,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/manas-08/DSA_leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/manas-08/DSA_leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/manas-08/DSA_leetcode/tree/master/0113-path-sum-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/manas-08/DSA_leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/manas-08/DSA_leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/manas-08/DSA_leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
@@ -310,6 +312,7 @@
 | [0098-validate-binary-search-tree](https://github.com/manas-08/DSA_leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0112-path-sum](https://github.com/manas-08/DSA_leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/manas-08/DSA_leetcode/tree/master/0113-path-sum-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/manas-08/DSA_leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/manas-08/DSA_leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/manas-08/DSA_leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Search Tree
@@ -324,6 +327,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/manas-08/DSA_leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/manas-08/DSA_leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/manas-08/DSA_leetcode/tree/master/0113-path-sum-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/manas-08/DSA_leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/manas-08/DSA_leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/manas-08/DSA_leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Stack
@@ -348,4 +352,5 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/manas-08/DSA_leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/manas-08/DSA_leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/manas-08/DSA_leetcode/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/manas-08/DSA_leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 <!---LeetCode Topics End-->
