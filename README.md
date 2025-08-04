@@ -297,6 +297,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/manas-08/DSA_leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/manas-08/DSA_leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/manas-08/DSA_leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/manas-08/DSA_leetcode/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/manas-08/DSA_leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -318,6 +319,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/manas-08/DSA_leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/manas-08/DSA_leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/manas-08/DSA_leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/manas-08/DSA_leetcode/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/manas-08/DSA_leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -341,5 +343,6 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/manas-08/DSA_leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/manas-08/DSA_leetcode/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
