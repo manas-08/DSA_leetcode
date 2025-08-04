@@ -34,9 +34,9 @@ class Solution {
                     queue.offer(curr.right);
                 }
             }
-            result.add(currLevelList);
+            result.add(0,currLevelList);
         }
-        Collections.reverse(result);
+        // Collections.reverse(result);
         return result;
     }
 }
