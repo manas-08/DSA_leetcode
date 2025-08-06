@@ -20,6 +20,7 @@
 | [0078-subsets](https://github.com/manas-08/DSA_leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/manas-08/DSA_leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/manas-08/DSA_leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/manas-08/DSA_leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/manas-08/DSA_leetcode/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/manas-08/DSA_leetcode/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/manas-08/DSA_leetcode/tree/master/0137-single-number-ii) |
@@ -170,6 +171,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/manas-08/DSA_leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/manas-08/DSA_leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/manas-08/DSA_leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/manas-08/DSA_leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/manas-08/DSA_leetcode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/manas-08/DSA_leetcode/tree/master/0191-number-of-1-bits) |
@@ -302,6 +304,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/manas-08/DSA_leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/manas-08/DSA_leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/manas-08/DSA_leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/manas-08/DSA_leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/manas-08/DSA_leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/manas-08/DSA_leetcode/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/manas-08/DSA_leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -327,6 +330,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/manas-08/DSA_leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/manas-08/DSA_leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -335,6 +339,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/manas-08/DSA_leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/manas-08/DSA_leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/manas-08/DSA_leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/manas-08/DSA_leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/manas-08/DSA_leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/manas-08/DSA_leetcode/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/manas-08/DSA_leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
