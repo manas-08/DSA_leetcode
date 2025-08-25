@@ -57,6 +57,7 @@
 | [0049-group-anagrams](https://github.com/manas-08/DSA_leetcode/tree/master/0049-group-anagrams) |
 | [0149-max-points-on-a-line](https://github.com/manas-08/DSA_leetcode/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/manas-08/DSA_leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/manas-08/DSA_leetcode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/manas-08/DSA_leetcode/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/manas-08/DSA_leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/manas-08/DSA_leetcode/tree/master/0645-set-mismatch) |
@@ -78,6 +79,7 @@
 | [0060-permutation-sequence](https://github.com/manas-08/DSA_leetcode/tree/master/0060-permutation-sequence) |
 | [0089-gray-code](https://github.com/manas-08/DSA_leetcode/tree/master/0089-gray-code) |
 | [0149-max-points-on-a-line](https://github.com/manas-08/DSA_leetcode/tree/master/0149-max-points-on-a-line) |
+| [0202-happy-number](https://github.com/manas-08/DSA_leetcode/tree/master/0202-happy-number) |
 | [0342-power-of-four](https://github.com/manas-08/DSA_leetcode/tree/master/0342-power-of-four) |
 | [0935-orderly-queue](https://github.com/manas-08/DSA_leetcode/tree/master/0935-orderly-queue) |
 | [1013-fibonacci-number](https://github.com/manas-08/DSA_leetcode/tree/master/1013-fibonacci-number) |
@@ -162,6 +164,7 @@
 | [0086-partition-list](https://github.com/manas-08/DSA_leetcode/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/manas-08/DSA_leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/manas-08/DSA_leetcode/tree/master/0148-sort-list) |
+| [0202-happy-number](https://github.com/manas-08/DSA_leetcode/tree/master/0202-happy-number) |
 | [0868-push-dominoes](https://github.com/manas-08/DSA_leetcode/tree/master/0868-push-dominoes) |
 | [1133-last-substring-in-lexicographical-order](https://github.com/manas-08/DSA_leetcode/tree/master/1133-last-substring-in-lexicographical-order) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/manas-08/DSA_leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
