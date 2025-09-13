@@ -91,6 +91,7 @@
 | [2610-closest-prime-numbers-in-range](https://github.com/manas-08/DSA_leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [3227-find-missing-and-repeated-values](https://github.com/manas-08/DSA_leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/manas-08/DSA_leetcode/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3462-vowels-game-in-a-string](https://github.com/manas-08/DSA_leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/manas-08/DSA_leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/manas-08/DSA_leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Matrix
@@ -127,6 +128,7 @@
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/manas-08/DSA_leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/manas-08/DSA_leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3396-valid-word](https://github.com/manas-08/DSA_leetcode/tree/master/3396-valid-word) |
+| [3462-vowels-game-in-a-string](https://github.com/manas-08/DSA_leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/manas-08/DSA_leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/manas-08/DSA_leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/manas-08/DSA_leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -393,4 +395,12 @@
 | [0112-path-sum](https://github.com/manas-08/DSA_leetcode/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/manas-08/DSA_leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/manas-08/DSA_leetcode/tree/master/0199-binary-tree-right-side-view) |
+## Brainteaser
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/manas-08/DSA_leetcode/tree/master/3462-vowels-game-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/manas-08/DSA_leetcode/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
