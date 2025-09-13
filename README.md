@@ -121,6 +121,7 @@
 | [0868-push-dominoes](https://github.com/manas-08/DSA_leetcode/tree/master/0868-push-dominoes) |
 | [0935-orderly-queue](https://github.com/manas-08/DSA_leetcode/tree/master/0935-orderly-queue) |
 | [1133-last-substring-in-lexicographical-order](https://github.com/manas-08/DSA_leetcode/tree/master/1133-last-substring-in-lexicographical-order) |
+| [1250-longest-common-subsequence](https://github.com/manas-08/DSA_leetcode/tree/master/1250-longest-common-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/manas-08/DSA_leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1739-split-two-strings-to-make-palindrome](https://github.com/manas-08/DSA_leetcode/tree/master/1739-split-two-strings-to-make-palindrome) |
 | [1797-goal-parser-interpretation](https://github.com/manas-08/DSA_leetcode/tree/master/1797-goal-parser-interpretation) |
@@ -230,6 +231,7 @@
 | [0118-pascals-triangle](https://github.com/manas-08/DSA_leetcode/tree/master/0118-pascals-triangle) |
 | [0868-push-dominoes](https://github.com/manas-08/DSA_leetcode/tree/master/0868-push-dominoes) |
 | [1013-fibonacci-number](https://github.com/manas-08/DSA_leetcode/tree/master/1013-fibonacci-number) |
+| [1250-longest-common-subsequence](https://github.com/manas-08/DSA_leetcode/tree/master/1250-longest-common-subsequence) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/manas-08/DSA_leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/manas-08/DSA_leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/manas-08/DSA_leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
