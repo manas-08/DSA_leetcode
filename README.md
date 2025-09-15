@@ -61,6 +61,7 @@
 | [0242-valid-anagram](https://github.com/manas-08/DSA_leetcode/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/manas-08/DSA_leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/manas-08/DSA_leetcode/tree/master/0645-set-mismatch) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/manas-08/DSA_leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/manas-08/DSA_leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/manas-08/DSA_leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/manas-08/DSA_leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -122,6 +123,7 @@
 | [0935-orderly-queue](https://github.com/manas-08/DSA_leetcode/tree/master/0935-orderly-queue) |
 | [1133-last-substring-in-lexicographical-order](https://github.com/manas-08/DSA_leetcode/tree/master/1133-last-substring-in-lexicographical-order) |
 | [1250-longest-common-subsequence](https://github.com/manas-08/DSA_leetcode/tree/master/1250-longest-common-subsequence) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/manas-08/DSA_leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/manas-08/DSA_leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1739-split-two-strings-to-make-palindrome](https://github.com/manas-08/DSA_leetcode/tree/master/1739-split-two-strings-to-make-palindrome) |
 | [1797-goal-parser-interpretation](https://github.com/manas-08/DSA_leetcode/tree/master/1797-goal-parser-interpretation) |
