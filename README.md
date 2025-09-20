@@ -397,6 +397,7 @@
 | [0596-classes-with-at-least-5-students](https://github.com/manas-08/DSA_leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [0607-sales-person](https://github.com/manas-08/DSA_leetcode/tree/master/0607-sales-person) |
 | [0626-exchange-seats](https://github.com/manas-08/DSA_leetcode/tree/master/0626-exchange-seats) |
+| [0627-swap-salary](https://github.com/manas-08/DSA_leetcode/tree/master/0627-swap-salary) |
 | [1480-movie-rating](https://github.com/manas-08/DSA_leetcode/tree/master/1480-movie-rating) |
 ## Geometry
 |  |
