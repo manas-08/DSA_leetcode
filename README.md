@@ -405,6 +405,7 @@
 | [0626-exchange-seats](https://github.com/manas-08/DSA_leetcode/tree/master/0626-exchange-seats) |
 | [0627-swap-salary](https://github.com/manas-08/DSA_leetcode/tree/master/0627-swap-salary) |
 | [1135-customers-who-bought-all-products](https://github.com/manas-08/DSA_leetcode/tree/master/1135-customers-who-bought-all-products) |
+| [1174-sales-analysis-iii](https://github.com/manas-08/DSA_leetcode/tree/master/1174-sales-analysis-iii) |
 | [1480-movie-rating](https://github.com/manas-08/DSA_leetcode/tree/master/1480-movie-rating) |
 ## Geometry
 |  |
