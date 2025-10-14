@@ -409,6 +409,7 @@
 | [1135-customers-who-bought-all-products](https://github.com/manas-08/DSA_leetcode/tree/master/1135-customers-who-bought-all-products) |
 | [1153-product-sales-analysis-i](https://github.com/manas-08/DSA_leetcode/tree/master/1153-product-sales-analysis-i) |
 | [1174-sales-analysis-iii](https://github.com/manas-08/DSA_leetcode/tree/master/1174-sales-analysis-iii) |
+| [1182-game-play-analysis-iv](https://github.com/manas-08/DSA_leetcode/tree/master/1182-game-play-analysis-iv) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/manas-08/DSA_leetcode/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1480-movie-rating](https://github.com/manas-08/DSA_leetcode/tree/master/1480-movie-rating) |
 ## Geometry
